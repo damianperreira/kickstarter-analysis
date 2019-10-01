@@ -10,3 +10,4 @@ The data shows that most successfull campaigns launched between April and August
 
 #### Outcomes Based on Goals
 The data shows that most successfull campaigns were the ones with goal between 1000 to 4999
+![OutcomesBasedOnGoals](https://user-images.githubusercontent.com/55824633/65927584-1bff2a00-e3af-11e9-9175-570cf57669f4.png)
